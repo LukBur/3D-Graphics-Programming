@@ -1,5 +1,5 @@
 # 3D-Graphics-Programming
-Unity/OpenGL
+Unity
 
 ## Project 1 - boulder pushing
 
